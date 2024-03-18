@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Iman" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#FF9800</item>
+        <item name="android:statusBarColor">#A16308</item>
+    </style>
+
+    <style name="Theme.Iman" parent="Base.Theme.Iman" />
+</resources>
